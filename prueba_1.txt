@@ -1,1 +1,3 @@
 Este es un file desde GitHiub/genkiro/devops
+este es un Cambio desde la terminal de mi maquina
+
